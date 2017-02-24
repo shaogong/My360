@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.myb.bj.my360.ui.MainActivity">
+    tools:context=".mvp.ui.MainActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
